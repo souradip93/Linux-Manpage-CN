@@ -1,0 +1,4 @@
+Number of nodes: 11478
+Number of edges: 15829
+Average degree:   2.7581
+Number of connected components = 104
